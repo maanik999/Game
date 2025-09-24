@@ -1,0 +1,5 @@
+{
+  "name": "Game Strategy Simulator",
+  "description": "A sophisticated simulator for testing and visualizing progressive betting strategies for crash games. Configure your strategy, input game multipliers, and watch the simulation unfold with detailed analytics and a real-time progress chart.",
+  "requestFramePermissions": []
+}
